@@ -1,0 +1,5 @@
+body {
+    background-image: url("bg.jpg"); /* Replace with the actual path to your image */
+    background-size: cover; /* This ensures the image covers the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+}
