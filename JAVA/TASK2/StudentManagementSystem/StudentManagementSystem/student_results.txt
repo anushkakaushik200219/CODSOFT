@@ -1,0 +1,20 @@
+Name: a
+Number of Subjects: 3
+Marks: 80 70 90 
+
+Name: b
+Number of Subjects: 3
+Marks: 50 70 90 
+
+Name: c
+Number of Subjects: 5
+Marks: 20 40 60 80 100 
+
+Name: d
+Number of Subjects: 2
+Marks: 90 40 
+
+Name: a
+Number of Subjects: 1
+Marks: 60 
+
