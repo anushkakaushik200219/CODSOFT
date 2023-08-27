@@ -1,3 +1,4 @@
+![.](https://github.com/anushkakaushik200219/CODSOFT/blob/main/Python/Task%203/Task%20(3).jpg)
 ![.](https://github.com/anushkakaushik200219/CODSOFT/blob/main/Python/Task%203/output/image.jpg)
 
 ![.](https://github.com/anushkakaushik200219/CODSOFT/blob/main/Python/Task%203/output/image_001.jpg)
